@@ -1,0 +1,17 @@
+Characteristic,Year,Demographic Category,Demographic Group,Overall Sample Size,Overall Population Size,Sample Cases with Characteristic,Estimated Population with Characteristic,Percentage with Characteristic,Lower Confidence Level,Upper Confidence Level
+Has Health Care Coverage,2007,Sex,Male,2491,7030946,2225,5874237,83.5,81.2,85.9
+Does Not Have Health Care Coverage,2007,Sex,Male,2491,7030946,266,1156709,16.5,14.1,18.8
+Does Not Have Health Care Coverage,2007,Sex,Female,4017,7753160,292,886305,11.4,9.8,13.1
+Has Health Care Coverage,2008,Sex,Male,2915,6998321,2657,5951149,85,82.8,87.3
+Has Health Care Coverage,2008,Sex,Female,4979,7742746,4657,6984259,90.2,88.8,91.6
+Does Not Have Health Care Coverage,2008,Sex,Male,2915,6998321,258,1047172,15,12.7,17.2
+Does Not Have Health Care Coverage,2008,Sex,Female,4979,7742746,322,758487,9.8,8.4,11.2
+Has Health Care Coverage,2009,Sex,Male,2628,7085395,2378,6113048,86.3,84,88.5
+Has Health Care Coverage,2009,Sex,Female,4279,7780240,3996,6963588,89.5,87.9,91.1
+Does Not Have Health Care Coverage,2009,Sex,Female,4279,7780240,283,816651,10.5,8.9,12.1
+Has Health Care Coverage,2010,Sex,Male,3325,7184659,3025,6177720,86,84.2,87.8
+Has Health Care Coverage,2010,Sex,Female,5589,7849932,5201,7144772,91,89.9,92.1
+Does Not Have Health Care Coverage,2010,Sex,Male,3325,7184659,300,1006939,14,12.2,15.8
+Does Not Have Health Care Coverage,2010,Sex,Female,5589,7849932,388,705160,9,7.9,10.1
+Has Health Care Coverage,2007,Sex,Female,4017,7753160,3725,6866854,88.59999999999999,86.9,90.2
+Does Not Have Health Care Coverage,2009,Sex,Male,2628,7085395,250,972346,13.699999999999998,11.5,16
