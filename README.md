@@ -3,9 +3,15 @@
 
 
 ## Selected topic
-## Reason why they selected their topic 
-## Description of their source of data
-## Questions they hope to answer with the data
-## Description of the communication protocols
+Our topic is on Immigration. We chose this topic because we would like to predict future immigration trends for upcoming years based on data gathered in the past.
 
-##  The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted
+## Source of data
+We gathered are data from the Department of Homeland Security.
+
+## Questions we hope to answer
+With our machine learning model and overall anaysis we hope to gather some insight on immigration trends for specific countries. We also hope to predict were immigration may go in the future.
+
+## Description of the communication protocols
+- Slack
+- Zoom
+
