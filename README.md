@@ -1,9 +1,8 @@
-# Immigration_Final_Project
+# Heart_Disease_Project
 
 
-
-## Selected topic
-## Reason why they selected their topic 
+## Heart Disease
+## Heart Disease is the leading cause of death in the United States every year.
 ## Description of their source of data
 ## Questions they hope to answer with the data
 ## Description of the communication protocols
