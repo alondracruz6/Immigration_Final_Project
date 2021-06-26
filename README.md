@@ -13,7 +13,8 @@
 + The data we will be using is from the Cleveland Heart Disease dataset taken from the UGI Repository.
 +
 + ## Questions we hope to answer
-
++ The question we hope to answer is if an individual is suffering from Heart Disease or not.
++ 
 ## Description of the communication protocols
 + - Slack
 + - Zoom
